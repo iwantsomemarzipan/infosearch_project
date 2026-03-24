@@ -31,7 +31,6 @@
 https://github.com/iwantsomemarzipan/infosearch_project.git
 cd infosearch_project
 pip install -r requirements.txt
-python -m spacy download en_core_web_sm
 python download_models.py
 ```
 
