@@ -28,7 +28,7 @@
 Установка зависимостей и моделей
 
 ```
-https://github.com/iwantsomemarzipan/infosearch_project.git
+git clone https://github.com/iwantsomemarzipan/infosearch_project.git
 cd infosearch_project
 pip install -r requirements.txt
 python download_models.py
